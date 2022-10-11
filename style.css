@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+
+.heading{
+   font-size: 30px;
+   color: aqua;
+   box-shadow: 1px -1px 40px blue ;
+   padding:20px;
+}
+
+.heading_1{
+    font-size: 15px;
+    color: lemonchiffon;
+    box-shadow: -1px 1px 20px gold;
+}
+
+#copyright{
+    position: fixed;
+    bottom: 20; 
+    font-size: 20px;
+    color: blue;
+    background-color: antiquewhite;
+    box-shadow: 1px 2px 30px rgba(155, 255, 5, 0.963);
+    width: 100%;
+    text-align: center;
+}
+canvas {
+    border: 2px dotted rgb(210, 123, 30) ;
+    box-shadow: 1px 1px 40px black;
+  
+}
